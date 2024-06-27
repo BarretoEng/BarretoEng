@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: HTML5, CSS e JAAVASCRIP
+  ☕ Linguagens: HTML5, CSS e JS
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas:
 </p>
 
 <p align="left">
