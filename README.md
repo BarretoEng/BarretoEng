@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Sou o <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento em front-end e back-end.
+  Estou determinado a aprender e crescer na criação de soluções inovadoras para aplicações web.
+  
+>|<br>
+  Estudante bacharel em Engenharia de Software.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  ☕ Linguagens: HTML5, CSS e JAAVASCRIP
 </p>
 
 <p align="left">
@@ -14,12 +17,12 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se você está buscando um desenvolvedor FullStack determinado a contribuir com soluções inovadoras, estou pronto para colaborar! Entre em contato comigo para discutirmos como posso ajudar!⤵️
 </p>
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rodrigobdias" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rodrigo-barreto-43703b280" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
@@ -29,3 +32,5 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo_dsgn_?igsh=MTF6enJ0NDBlajMzNQ==" alt="Instagram"/></a>
 </p>
+
+
