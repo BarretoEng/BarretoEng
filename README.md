@@ -4,8 +4,7 @@
   Olá! Sou o <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento em front-end e back-end.
   Estou determinado a aprender e crescer na criação de soluções inovadoras para aplicações web.
   
->|<br>
-  Estudante bacharel em Engenharia de Software.
+> Estudante bacharel em<br>Engenharia de Software.
 </p>
 
 <p align="left">
