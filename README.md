@@ -19,9 +19,6 @@
   💌 Se você está buscando um desenvolvedor FullStack determinado a contribuir com soluções inovadoras, estou pronto para colaborar! Entre em contato comigo para discutirmos como posso ajudar!⤵️
 </p>
 
-<a href="mailto:email@provedor.com.br, email2@provedor.com.br,?subject=Assunto do email&body=Conteúdo do e-mail que será preenchido automaticamente">Enviar e-mail</a>
-
-
 <p align="left">
   <a href="mailto:rodrigobdias50@gmail.com, rodrigo.dsgner@gmail.com,?subject=Assunto: Consulta&body=Conteúdo do e-mail" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-GMAIL" alt="Gmail"/></a>
