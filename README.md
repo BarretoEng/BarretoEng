@@ -8,15 +8,11 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: HTML, CSS e JavaScript
-</p>
-
-<p align="left">
-  💼 Ferramentas: 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML-ec6231?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
-   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VSCODE"/>
+  ☕ Linguagens:
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-ec6231?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
+   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VSCODE"/>
 </p>
 
 <p align="left">
@@ -25,14 +21,15 @@
 
 <p align="left">
   <a href="mailto:rodrigobdias50@gmail.com, rodrigo.dsgner@gmail.com,?subject=Assunto: Consulta&body=Conteúdo do e-mail" target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-barreto-43703b280" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-LINKEDIN" alt="Linkedin"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=LINK-LINKEDIN" alt="Linkedin"/></a>
   <a href="#" target="_blank" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" target="_blank" title="Facebook">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" target="_blank" title="Meu Portfólio">
+    
   <a href="https://www.instagram.com/rodrigo_dsgn_?igsh=MTF6enJ0NDBlajMzNQ==" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
 
