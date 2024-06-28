@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou o <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento em <strong>front-end e back-end</strong>strong>.
+  Olá! Sou <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento em <strong>front-end e back-end</strong>.
   Estou determinado a aprender e crescer na criação de soluções inovadoras para aplicações web.
   
 > Estudante bacharel em<br>Engenharia de Software.
@@ -12,7 +12,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:
+  💼 Ferramentas: 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-ec6231?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
+   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VSCODE"/>
 </p>
 
 <p align="left">
@@ -20,14 +24,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:rodrigobdias50@gmail.com, rodrigo.dsgner@gmail.com,?subject=Assunto: Consulta&body=Conteúdo do e-mail" target="_blank" title="Gmail" >
+  <a href="mailto:rodrigobdias50@gmail.com, rodrigo.dsgner@gmail.com,?subject=Assunto: Consulta&body=Conteúdo do e-mail" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-barreto-43703b280" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-LINKEDIN" alt="Linkedin"/></a>
   <a href="#" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" target="_blank" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-FACEBOOK" alt="Facebook"/></a>
   <a href="https://www.instagram.com/rodrigo_dsgn_?igsh=MTF6enJ0NDBlajMzNQ==" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-INSTAGRAM" alt="Instagram"/></a>
 </p>
