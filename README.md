@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-barreto-43703b280" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=LINK-LINKEDIN" alt="Linkedin"/></a>
-  <a href="#" target="_blank" title="WhatsApp">
+  <a href="https://wa.me/5593981241825" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" target="_blank" title="Meu Portfólio">
     
