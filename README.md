@@ -9,6 +9,8 @@
 
 <p align="left">
   ☕ Linguagens:
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML-ec6231?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
