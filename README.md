@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento em <strong>front-end e back-end</strong>.
+  Olá! Sou <strong>Rodrigo Barreto</strong>, um entusiasta em desenvolvimento <strong>FullStack</strong>, atualmente focado em expandir meu conhecimento.
   Estou determinado a aprender e crescer na criação de soluções inovadoras para aplicações web.
   
 > Estudante bacharel em<br>Engenharia de Software.
